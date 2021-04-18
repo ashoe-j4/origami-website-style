@@ -1,0 +1,31 @@
+h1 {
+    color: aqua;
+}
+* {
+    color: #AABBCC;
+}
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: Helvetica, Arial, sans-serif;
+}
+h2{
+    color: #AABBCC;
+    text-align: center;
+}
+
+body{
+    background-image: url("cityscape.jpeg");
+    background-size: 100% 200%;
+    font-family: cursive;
+}
